@@ -1,6 +1,8 @@
 # Weather CLI Tool
 
-This is a command-line tool that provides current weather information for a given location using the OpenWeatherMap API made using GitHub Copilot. It allows you to retrieve various weather data such as temperature, humidity, forecast, rainfall, and daylight hours.
+Team Leader - Siddhant Dutta
+
+This is a command-line tool made by Team Licht Den Code that provides current weather information for a given location using the OpenWeatherMap API made using GitHub Copilot. It allows you to retrieve various weather data such as temperature, humidity, forecast, rainfall, and daylight hours.
 
 ## Prerequisites
 
