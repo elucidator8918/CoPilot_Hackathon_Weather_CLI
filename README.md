@@ -28,7 +28,7 @@ To use the weather CLI tool, follow these steps:
 1. Navigate to the project directory:
 
    ```
-   cd weather-cli
+   cd CoPilot_Hackathon_Weather_CLI/   
    ```
 
 2. Run the tool with the desired command. Here are some examples:
